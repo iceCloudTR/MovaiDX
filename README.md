@@ -11,6 +11,8 @@ A 3D Print Maimai Controller Version 1.0
 ## 版本说明与文档
 如果你正在寻找 **Version 1.0** 的稳定版本硬件设计与组装说明，请访问以下链接：
 
+* [1.0 版本_模型开源文件](https://makerworld.com.cn/models/2062877)
+
 * [1.0 版本 组装教程](https://github.com/iceCloudTR/MovaiDX/blob/MovaiDX-Ver1.0/docs/Assembly.md)
     * [MovaiDX 1.0 前面板组装](https://github.com/iceCloudTR/MovaiDX/blob/MovaiDX-Ver1.0/docs/FrontPanelAssembly.md)
     * [MovaiDX 1.0 主框体组装](https://github.com/iceCloudTR/MovaiDX/blob/MovaiDX-Ver1.0/docs/MainFrameAssembly.md)
